@@ -1,2 +1,4 @@
 .env
-__pycache__/random_forest_model.pkl
+__pycache__/
+__pycache__/*
+random_forest_model.pkl

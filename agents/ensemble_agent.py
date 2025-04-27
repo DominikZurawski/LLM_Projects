@@ -11,7 +11,7 @@ class EnsembleAgent(Agent):
 
     name = "Ensemble Agent"
     color = Agent.YELLOW
-    
+
     def __init__(self, collection):
         """
         Create an instance of Ensemble, by creating each of the models
